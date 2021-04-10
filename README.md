@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. Do not forget to follow. 👋
 
 <!--
 **jcmayoral/jcmayoral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 <!--[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcmayoral&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Jose's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcmayoral&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
