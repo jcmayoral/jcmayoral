@@ -29,4 +29,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcmayoral&theme=dark&show_icons=true&layout=compact&include_all_commits=true&count_private=true,&hide=contribs,stars" />
 </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcmayoral)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcmayoral)](https://github.com/anuraghazra/github-readme-stats?range=last_year)
