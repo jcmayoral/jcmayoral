@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on a personal blog focused in explaining robotics for dummies (Spanish) https://roboticaymas.wordpress.com/
 - 👯 I’m looking to collaborate on basically anything, I am really curious, especially in topics related to robotics.
+- Volunteering at Grupo Juvenil Magtayani https://www.magtayani.org/ (Spanish).
 <!--
 **jcmayoral/jcmayoral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
