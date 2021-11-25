@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcmayoral&layout=compact&theme=dark&langs_count=10&hide=sas,processing&count_private=true" </a>
 
-<ahref="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcmayoral&theme=dark&show_icons=true&layout=compact&include_all_commits=false&count_private=true" </a>
   
 <!-- nah too much
