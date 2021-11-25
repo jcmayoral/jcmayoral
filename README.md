@@ -1,4 +1,8 @@
 ### Hi there. Do not forget to follow. 👋
+<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/elbuenmayito?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%elbuenmayito&screen_name=elbuenmayito)
+
+## About me
 
 - 🔭 I’m currently working on a personal blog focused in explaining robotics for dummies (Spanish) https://roboticaymas.wordpress.com/
 - 👯 I’m looking to collaborate on basically anything, I am really curious, especially in topics related to robotics.
@@ -22,6 +26,14 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcmayoral&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+### Connect with me:
+<!-- Template taken from STACKr video on https://www.youtube.com/watch?v=ECuqb5Tv9qI -->
+<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[<img align="left" alt="elbuenmayito | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jose.mayoral | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="josesto.no | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="roboticaymas | Wordpress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -34,3 +46,7 @@ Here are some ideas to get you started:
 <!-- nah too much
 [![Jose's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcmayoral)](https://github.com/anuraghazra/github-readme-stats)
 -->
+[twitter]: https://twitter.com/elbuenmayito
+[instagram]: https://instagram.com/josesito.no
+[linkedin]: https://www.linkedin.com/in/jcmayoral/
+[wordpress]: https://roboticaymas.wordpress.com
