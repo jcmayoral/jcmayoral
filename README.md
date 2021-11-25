@@ -4,7 +4,7 @@
 
 ## About me
 
-- 😄 In the process to finish somehow my Ph.D.
+- 😄 In the process to finish somehow and somewhere my Ph.D.
 - 🔭 I'm redesigning my life path, so I am looking to constantly learn more things about everything.
 <!-- - 🔭 I’m currently working on a personal blog focused in explaining robotics for dummies (Spanish) https://roboticaymas.wordpress.com/ -->
 - 👯 I’m looking to collaborate on basically anything, I am really curious, especially in topics related to robotics.
