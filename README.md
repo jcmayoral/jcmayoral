@@ -1,10 +1,11 @@
 ### Hi there. I am trying to be more active in my social media. Please Follow in any of them. 👋
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/elbuenmayito?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%jcmayoral&screen_name=elbuenmayito) 
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/elbuenmayito?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%jcmayoral&screen_name=elbuenmayito)  -->
 
 ## About me
 
 - 😄 In the process to finish somehow my Ph.D.
+- 🔭 I'm redesigning my life path, so I am looking to constantly learn more things about everything.
 # - 🔭 I’m currently working on a personal blog focused in explaining robotics for dummies (Spanish) https://roboticaymas.wordpress.com/
 - 👯 I’m looking to collaborate on basically anything, I am really curious, especially in topics related to robotics.
 - 🌱 I’m currently learning C# and web technologies (pretty rookie yet).
