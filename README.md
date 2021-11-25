@@ -6,7 +6,6 @@
 
 - 😄 In the process to finish somehow and somewhere my Ph.D.
 - 🔭 I'm redesigning my life path, so I am looking to constantly learn more things about everything.
-<!-- - 🔭 I’m currently working on a personal blog focused in explaining robotics for dummies (Spanish) https://roboticaymas.wordpress.com/ -->
 - 👯 I’m looking to collaborate on basically anything, I am really curious, especially in topics related to robotics.
 - 🌱 I’m currently learning C# and web technologies (pretty rookie yet).
 - Volunteering at Grupo Juvenil Magtayani https://www.magtayani.org/ (Spanish). Donate to it if you find yourself to the cause.
