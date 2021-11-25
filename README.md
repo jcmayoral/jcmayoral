@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 ### Some stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcmayoral&layout=compact&theme=dark&langs_count=10&hide=sas,processing&count_private=true" </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcmayoral&theme=dark&langs_count=10&count_private=true" </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcmayoral&theme=dark&show_icons=true&layout=compact&include_all_commits=false&count_private=true&hide_rank=true" </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcmayoral&theme=dark&show_icons=true&include_all_commits=false&count_private=true&hide_rank=true" </a>
   
 <!-- nah too much
 [![Jose's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcmayoral)](https://github.com/anuraghazra/github-readme-stats)
