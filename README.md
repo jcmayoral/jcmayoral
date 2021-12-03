@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Connect with me:
+## Connect with me:
 <!-- Template taken from STACKr video on https://www.youtube.com/watch?v=ECuqb5Tv9qI -->
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 
-### Some stats  
+## Some stats  
 <div class="row">
   <div class="column" width="50%">
     <a href="https://github.com/anuraghazra/github-readme-stats">
