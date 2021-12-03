@@ -11,7 +11,6 @@
 - Volunteering at Grupo Juvenil Magtayani https://www.magtayani.org/ (Spanish). Donate to it if you find yourself to the cause.
 <!--
 **jcmayoral/jcmayoral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -22,6 +21,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Connect with me:
+
+[<img align="left" alt="elbuenmayito | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jose.mayoral | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="josesto.no | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="roboticaymas | Wordpress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
+
 
 <!--[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcmayoral&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Jose's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcmayoral)](https://github.com/anuraghazra/github-readme-stats)
@@ -49,12 +56,6 @@ Here are some ideas to get you started:
 [![Jose's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcmayoral)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-Connect with me:
-
-[<img align="left" alt="elbuenmayito | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jose.mayoral | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="josesto.no | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="roboticaymas | Wordpress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
 
     
 [twitter]: https://twitter.com/elbuenmayito
