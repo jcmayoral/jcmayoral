@@ -39,12 +39,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="jose.mayoral | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="josesto.no | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="roboticaymas | Wordpress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
-
-[twitter]: https://twitter.com/elbuenmayito
-[instagram]: https://instagram.com/josesito.no
-[linkedin]: https://www.linkedin.com/in/jcmayoral/
-[wordpress]: https://roboticaymas.wordpress.com
-
 </span>
 
 
@@ -66,3 +60,10 @@ Here are some ideas to get you started:
 <!-- nah too much
 [![Jose's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcmayoral)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+    
+    
+[twitter]: https://twitter.com/elbuenmayito
+[instagram]: https://instagram.com/josesito.no
+[linkedin]: https://www.linkedin.com/in/jcmayoral/
+[wordpress]: https://roboticaymas.wordpress.com
