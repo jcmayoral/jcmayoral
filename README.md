@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 <div class="row">
   <div class="column">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcmayoral&theme=dark&langs_count=10&count_private=true" 
+      <img width="30%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcmayoral&theme=dark&langs_count=10&count_private=true" 
     </a>
   </div>
   <div class="column">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcmayoral&theme=dark&show_icons=true&hide_rank=true"    
+      <img width="30%" align="center" src="https://github-readme-stats.vercel.app/api?username=jcmayoral&theme=dark&show_icons=true&hide_rank=true"    
     </a>
   </div>
 </div>
