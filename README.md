@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     </a>
       
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcmayoral&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false"    
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcmayoral&theme=dark&show_icons=true"    
     </a>
   </div>
 </div>
