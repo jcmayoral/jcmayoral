@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 
 ### Some stats  
 <div class="row">
-  <div class="column">
+  <div class="column" width="50%">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width="30%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcmayoral&theme=dark&langs_count=10&count_private=true" 
     </a>
   </div>
-  <div class="column">
+  <div class="column" width="50%">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width="30%" align="center" src="https://github-readme-stats.vercel.app/api?username=jcmayoral&theme=dark&show_icons=true&hide_rank=true"    
     </a>
