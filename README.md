@@ -28,7 +28,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcmayoral)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-## Some stats  
+<!-- Template taken from STACKr video on https://www.youtube.com/watch?v=ECuqb5Tv9qI -->
+<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+
 <div class="row">
   <div class="column" width="50%">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -39,25 +42,20 @@ Here are some ideas to get you started:
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=jcmayoral&theme=dark&show_icons=true&hide_rank=true"    
     </a>
-    <b> Connect with me: </b>
-    <!-- Template taken from STACKr video on https://www.youtube.com/watch?v=ECuqb5Tv9qI -->
-    <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-    [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-
-    [<img align="left" alt="elbuenmayito | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-    [<img align="left" alt="jose.mayoral | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-    [<img align="left" alt="josesto.no | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-    [<img align="left" alt="roboticaymas | Wordpress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
-
-
-  </div>
+ </div>
 </div>
   
 <!-- nah too much
 [![Jose's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcmayoral)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-    
+<b> Connect with me: </b>
+
+[<img align="left" alt="elbuenmayito | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jose.mayoral | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="josesto.no | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="roboticaymas | Wordpress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
+
     
 [twitter]: https://twitter.com/elbuenmayito
 [instagram]: https://instagram.com/josesito.no
