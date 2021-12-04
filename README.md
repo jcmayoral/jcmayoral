@@ -46,7 +46,7 @@ Connect with me:
   </div>
   <div class="column" width="50%">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=jcmayoral&theme=dark&show_icons=true&hide_rank=true"    
+      <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=jcmayoral&theme=dark&show_icons=true&hide_rank=true&include_all_commits=true"    
     </a>
  </div>
 </div>
