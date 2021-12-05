@@ -5,6 +5,7 @@
 <span>
   <img width="100%" align="center" src="resources/godandme.png"/>
 </span>
+
 ## About me
 
 - 😄 In the process to finish somehow and somewhere my Ph.D.
