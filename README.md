@@ -42,7 +42,7 @@ Connect with me:
   </div>
   <div class="column" width="50%">
     <a href="https://github.com/jcmayoral/github-readme-stats">
-      <img width="45%" align="center" src="https://github-readme-stats-tau-gold.vercel.app/api/?username=jcmayoral"    
+      <img width="45%" align="center" src="https://github-readme-stats-git-jcmayoral-patch-1-jcmayoral.vercel.app/api/?username=jcmayoral"    
     </a>
  </div>
 </div>
