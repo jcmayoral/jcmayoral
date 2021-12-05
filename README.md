@@ -37,7 +37,7 @@ Connect with me:
 <div class="row">
   <div class="column" width="50%">
     <a href="https://github.com/jcmayoral/github-readme-stats">
-      <img width="45%" align="left" src="https://github-readme-stats-tau-gold.vercel.app/api/top-langs/?username=jcmayoral&theme=graywhite &langs_count=10&count_private=true&exclude_repo=mcl_3dl,darknet_ros,rviz,se2_navigation,velodyne,mpc_ros,dynamic_robot_localization,grid_map,move_base_flex,gazebo-pkgs,mpc_local_planner,control-toolbox,realsense-ros,pcl,spencer_people_tracking,sbpl,grid_map,Open3D&hide=SAS,processing,TeX,QMake,Assembly,CMake,Make,M,Groff,Makefile" 
+      <img width="45%" align="left" src="https://github-readme-stats-tau-gold.vercel.app/api/top-langs/?username=jcmayoral" 
     </a>
   </div>
   <div class="column" width="50%">
@@ -46,13 +46,7 @@ Connect with me:
     </a>
  </div>
 </div>
-  
-<!-- nah too much
-[![Jose's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcmayoral)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-
-    
+     
 [twitter]: https://twitter.com/elbuenmayito
 [instagram]: https://instagram.com/josesito.no
 [linkedin]: https://www.linkedin.com/in/jcmayoral/
