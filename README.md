@@ -29,10 +29,6 @@ Connect with me:
 [<img align="center" alt="roboticaymas | Wordpress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
 </span>
 
-<!--[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcmayoral&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![Jose's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcmayoral)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcmayoral)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 <!-- Template taken from STACKr video on https://www.youtube.com/watch?v=ECuqb5Tv9qI -->
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -45,8 +41,8 @@ Connect with me:
     </a>
   </div>
   <div class="column" width="50%">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="45%" align="center" src="https://github-readme-stats-tau-gold.vercel.app/api/?username=jcmayoral&theme=graywhite &show_icons=true&hide_rank=true&include_all_commits=false&count_private=false"    
+    <a href="https://github.com/jcmayoral/github-readme-stats">
+      <img width="45%" align="center" src="https://github-readme-stats-tau-gold.vercel.app/api/?username=jcmayoral"    
     </a>
  </div>
 </div>
