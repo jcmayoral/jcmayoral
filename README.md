@@ -37,12 +37,12 @@ Connect with me:
 <div class="row">
   <div class="column" width="50%">
     <a href="https://github.com/jcmayoral/github-readme-stats">
-      <img width="45%" align="left" src="https://github-readme-stats-git-jcmayoral-patch-1-jcmayoral.vercel.app/api/top-langs?username=jcmayoral" 
+      <img width="45%" align="left" src="https://github-readme-stats-git-jcmayoral.vercel.app/api/top-langs?username=jcmayoral&langs_count=10&hide=Jupyter%20Notebook,SAS,Makefile,CMake," 
     </a>
   </div>
   <div class="column" width="50%">
     <a href="https://github.com/jcmayoral/github-readme-stats">
-      <img width="45%" align="center" src="https://github-readme-stats-git-jcmayoral-patch-1-jcmayoral.vercel.app/api/?username=jcmayoral"    
+      <img width="45%" align="center" src="https://github-readme-stats-tau-gold.vercel.app/api/?username=jcmayoral&count_private=true"    
     </a>
  </div>
 </div>
