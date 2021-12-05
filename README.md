@@ -2,8 +2,9 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/elbuenmayito?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%jcmayoral&screen_name=elbuenmayito)  -->
 
-<img width="45%" align="left" src="resources/godandme.png"/>
-
+<span>
+  <img width="100%" align="center" src="resources/godandme.png"/>
+</span>
 ## About me
 
 - 😄 In the process to finish somehow and somewhere my Ph.D.
