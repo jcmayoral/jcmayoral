@@ -9,10 +9,7 @@
 ## About me
 
 - 😄 In the process to finish somehow and somewhere my Ph.D.
-- 🔭 I'm redesigning my life path, so I am looking to constantly learn more things about everything.
 - 👯 I’m looking to collaborate on basically anything, I am really curious, especially in topics related to robotics.
-- 🌱 I’m currently learning C# and web technologies (pretty rookie yet).
-- Volunteering at Grupo Juvenil Magtayani https://www.magtayani.org/ (Spanish). Donate to it if you find yourself to the cause.
 <!--
 **jcmayoral/jcmayoral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
