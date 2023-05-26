@@ -1,4 +1,4 @@
-### Hi there. I am trying to be more active in my social media. Please Follow in any of them. 👋
+### Hello fellow 👋
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/elbuenmayito?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%jcmayoral&screen_name=elbuenmayito)  -->
 
