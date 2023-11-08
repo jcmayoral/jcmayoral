@@ -10,6 +10,7 @@
 
 - 😄 In the process to finish somehow and somewhere my Ph.D.
 - 👯 I’m looking to collaborate on basically anything, I am really curious, especially in topics related to robotics.
+- Professional Experience in 4 countries (Mexico, Germany, Norway, and Chile)
 <!--
 **jcmayoral/jcmayoral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
