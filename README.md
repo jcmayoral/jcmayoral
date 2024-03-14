@@ -30,7 +30,7 @@ Connect with me:
 <span>
 [<img align="center" alt="elbuenmayito | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="center" alt="jose.mayoral | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="josesto.no | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="josesito.peru | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="center" alt="roboticaymas | Wordpress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
 </span>
 
@@ -39,18 +39,20 @@ Connect with me:
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 
+<!--
 <div class="row">
   <div class="column" width="50%">
     <a href="https://github.com/jcmayoral/github-readme-stats">
       <img width="45%" align="left" src="https://github-readme-stats-tau-gold.vercel.app/api/top-langs?username=jcmayoral&langs_count=10&hide=Jupyter%20Notebook,SAS,Makefile,CMake,TeX" 
     </a>
   </div>
+</div>
+-->
   <div class="column" width="50%">
     <a href="https://github.com/jcmayoral/github-readme-stats">
       <img width="45%" align="center" src="https://github-readme-stats-tau-gold.vercel.app/api/?username=jcmayoral&count_private=true&include_all_commits=true"    
     </a>
  </div>
-</div>
      
 [twitter]: https://twitter.com/elbuenmayito
 [instagram]: https://instagram.com/josesito.no
