@@ -5,13 +5,13 @@
 <span>
   <img width="100%" align="center" src="resources/godandme.png"/>
 </span>
-
+<!--
 ## About me
 
 - 😄 In the process to finish somehow and somewhere my Ph.D.
 - 👯 I’m looking to collaborate on basically anything, I am really curious, especially in topics related to robotics.
 - Professional Experience in 5 countries (Mexico, Germany, Norway, Chile, and United Kingdom)
-<!--
+
 **jcmayoral/jcmayoral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
