@@ -42,7 +42,7 @@ Connect with me:
 <div class="row">
   <div class="column" width="50%">
     <a href="https://github.com/jcmayoral/github-readme-stats">
-      <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=jcmayoral&hide=stars" 
+      <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=jcmayoral&hide=stars&count_private=true" 
     </a>
   </div>
 </div>
