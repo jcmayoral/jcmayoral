@@ -43,12 +43,6 @@ Connect with me:
 <div class="row">
   <div class="column" width="50%">
     <a href="https://github.com/jcmayoral/github-readme-stats">
-      <img width="45%" align="left" src="https://github-readme-stats-tau-gold.vercel.app/api/top-langs?username=jcmayoral&langs_count=10&hide=Jupyter%20Notebook,SAS,Makefile,CMake,TeX" 
-    </a>
-  </div>
-
-  <div class="column" width="50%">
-    <a href="https://github.com/jcmayoral/github-readme-stats">
       <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcmayoral&langs_count=10&hide=Jupyter%20Notebook,SAS,Makefile,CMake,TeX" 
     </a>
   </div>
