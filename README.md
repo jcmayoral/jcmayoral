@@ -2,9 +2,9 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/elbuenmayito?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%jcmayoral&screen_name=elbuenmayito)  -->
 <!--
 
-<!--span>
+<span>
   <img width="80%" align="center" src="resources/godandme.png"/>
-</span-->
+</span>
 ### Hello fellow 👋
 
 ## About me
@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjcmayoral%2Fhit-counter&count_bg=%23BBB5B8&title_bg=%23817777&icon=nucleo.svg&icon_color=%23E7E7E7&title=Visits:Today/Total&edge_flat=false"/></a>
+<!--a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjcmayoral%2Fhit-counter&count_bg=%23BBB5B8&title_bg=%23817777&icon=nucleo.svg&icon_color=%23E7E7E7&title=Visits:Today/Total&edge_flat=false"/></a-->
 
 Connect with me:
+
 <span>
 [<img align="center" alt="elbuenmayito | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="center" alt="jose.mayoral | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
